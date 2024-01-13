@@ -1,0 +1,31 @@
+body {
+  background-color: #B0DA96 
+    
+}
+
+h1{
+  color: #660DB1;
+  font-size: 50px;
+  font-family: georgia, 
+    
+}
+
+img {
+  width: 60%;
+}
+
+
+.header {
+  background-color: #D3F8C0;
+  border: 1px solid white;
+padding-left: 15px;
+
+  
+  
+}
+
+.footer {
+  background-color: #D3F8C0;
+  border: 100px white;
+  margin-left: 10px
+  }
